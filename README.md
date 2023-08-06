@@ -7,6 +7,11 @@ Made a simple facial detection program using OpenCV and Python. The program uses
 * Python 3.6.5
 * OpenCV 3.4.1
 
+## Install Dependencies
+```bash 
+pip install -r requirements.txt
+```
+
 ## Usage
 To run the program, simply run the following command in the terminal:
 ```
